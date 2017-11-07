@@ -1,6 +1,6 @@
 -----------------------------------
 
-###Planning for pyramid interactive browsable tables.
+### Planning for pyramid interactive browsable tables.
 
 Turning back to jQuery, again, if this time I could make it work..
 
@@ -13,7 +13,7 @@ How to run jquery on local machine
 
 From above page
 
-###How to run jquery on local machine
+### How to run jquery on local machine
 
 So i figured this out. 
 You have to tell the webpage that you want to use jQuery and where it should get it. 
